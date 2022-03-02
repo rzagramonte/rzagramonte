@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rzagramonte
 - 👀 I’m interested in all things tech.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on open source projects and freelancing.
 - 📫 How to reach me: @rzagramonte on Twitter.
 
