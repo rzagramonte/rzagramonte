@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roosiel Agramonte</h1>
 <h3 align="center">I am a Software Engineer passionate about advocating for positive change and enhancing the human experience with the help of technology.</h3>
 
-- 🌱 I’m currently learning **JavaScript** and how to use it in Node!
+- 🌱 I’m currently learning **JavaScript** and how to use it in Node with Express!
 
 - 👨‍💻 All of my projects are available at [https://roosiel.netlify.app/](https://roosiel.netlify.app/)
 
