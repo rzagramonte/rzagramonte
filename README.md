@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript** and how to use it in Node with Express!
 
-- 👨‍💻 All of my projects are available at [https://roosiel.netlify.app/](https://roosiel.netlify.app/)
+- 👨‍💻 All of my hosted projects are available at [https://roosiel.netlify.app/](https://roosiel.netlify.app/)
 
 - 📫 How to reach me **roosielagramonte@gmail.com**
 
