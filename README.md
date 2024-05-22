@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roosiel Agramonte</h1>
-<h3 align="center">I am a Software Engineer passionate about advocating for positive change and enhancing the human experience with the help of technology.</h3>
+<h3 align="center">I am a Software Engineer passionate about advocating for innovation and enhancing the human experience with the help of technology.</h3>
 
 - 🌱 I’m currently learning **React** and all about **data structures** and **algorithms**!
 
